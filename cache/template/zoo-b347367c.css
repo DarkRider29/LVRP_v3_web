@@ -1,0 +1,86 @@
+#yoo-zoo .row,
+#yoo-zoo
+.floatbox{overflow:hidden}#yoo-zoo
+.width20{float:left;width:19.999%}#yoo-zoo
+.width25{float:left;width:24.999%}#yoo-zoo
+.width33{float:left;width:33.333%}#yoo-zoo
+.width50{float:left;width:49.999%}#yoo-zoo .alpha-index{height:25px;margin-bottom:15px;overflow:hidden}#yoo-zoo .alpha-index a,
+#yoo-zoo .alpha-index
+span{display:inline-block;width:21px;height:25px;background:url("../../media/zoo/applications/movie/templates/default/assets/images/alpha_index_item.png") 100% 50% no-repeat;line-height:25px;text-align:center;text-transform:uppercase}#yoo-zoo .alpha-index :last-child{background:none}#yoo-zoo .alpha-index a:link,
+#yoo-zoo .alpha-index a:visited{color:#646464;text-decoration:none}#yoo-zoo .alpha-index a:hover{color:#000;text-decoration:underline}#yoo-zoo .alpha-index
+span{color:#C8C8C8;cursor:default}#yoo-zoo .alpha-index-center{text-align:center}#yoo-zoo
+.details{margin-bottom:30px;border-bottom:1px solid #D2D3D4}#yoo-zoo .details
+h1.title{margin:0px
+0px 5px 0px;font-size:24px;line-height:30px;color:#323232;font-weight:normal}#yoo-zoo .details
+h2.subtitle{margin:-5px 0px 5px 0px;font-size:16px;line-height:20px;color:#323232;font-weight:normal}#yoo-zoo .details.alignment-center
+h1.title{font-size:38px;line-height:42px;letter-spacing:-1px;font-family:Georgia,"Times New Roman",Times,serif}#yoo-zoo .details.alignment-center
+h2.subtitle{font-family:Georgia,"Times New Roman",Times,serif}#yoo-zoo .details
+div.description{padding-bottom:20px;overflow:hidden}#yoo-zoo .details.alignment-center{text-align:center}#yoo-zoo .details.alignment-left
+.image{margin-right:15px;float:left}#yoo-zoo .details.alignment-right
+.image{margin-left:15px;float:right}#yoo-zoo .details.alignment-center
+.image{display:block;margin:auto;margin-bottom:10px}#yoo-zoo
+.categories{margin:0px
+-10px 0px -10px;overflow:hidden}#yoo-zoo .categories
+.category{padding:0px
+10px 20px 10px}#yoo-zoo .categories
+h2.title{margin:0px;line-height:14px;font-size:12px;font-weight:bold}#yoo-zoo .categories h2.title
+a{color:#323232}#yoo-zoo .categories h2.title
+span{font-size:10px;font-weight:normal;color:#969696}#yoo-zoo .categories
+div.description{line-height:14px;color:#969696}#yoo-zoo .categories a.teaser-image{display:block;margin:4px
+0px 2px 0px}#yoo-zoo .categories p.sub-categories{margin:0px}#yoo-zoo .categories p.sub-categories
+a{line-height:14px;font-size:12px;color:#323232}#yoo-zoo .categories p.sub-categories
+span{color:#969696;font-size:10px}#yoo-zoo .categories ul.sub-items{list-style:none;margin:5px
+0px 0px 0px;padding:0px;line-height:14px}#yoo-zoo
+.items{}#yoo-zoo .items-separator{padding-top:20px;border-top:1px solid #D2D3D4}#yoo-zoo .items
+.row{margin:0px
+-10px 0px -10px;padding-bottom:30px}#yoo-zoo .items div.teaser-item{padding:0px
+7px 0px 7px;text-align:center;overflow:hidden}#yoo-zoo .items div.media-left{margin-right:15px;float:left}#yoo-zoo .items div.media-right{margin-left:15px;float:right}#yoo-zoo .items h2.pos-title{margin:8px
+0px 0px 0px;line-height:14px;font-size:12px;font-weight:bold}#yoo-zoo .items h2.pos-title
+a{text-decoration:none}#yoo-zoo .items ul.pos-description{list-style:none;margin:0px;padding:0px;line-height:14px;color:#969696}#yoo-zoo .items ul.pos-description
+.element{margin:7px
+0px 0px 0px}#yoo-zoo .items ul.pos-description .element
+strong{color:#323232}#yoo-zoo .items ul.pos-description .element-textarea>*{margin:0px
+0px 7px 0px}#yoo-zoo .items ul.pos-description .element-textarea *:last-child{margin-bottom:0px}#yoo-zoo
+.pagination{text-align:center}#yoo-zoo .pagination div.pagination-bg{display:inline-block;cursor:pointer}#yoo-zoo .pagination
+a{text-decoration:none}#yoo-zoo .item
+h3{margin-top:0px;font-size:21px;font-weight:normal}#yoo-zoo .item .element-textarea>*{margin:0px
+0px 10px 0px}#yoo-zoo .item .element-textarea *:last-child{margin-bottom:0px}#yoo-zoo .item div.pos-top{overflow:hidden}#yoo-zoo .item div.pos-top
+.element{margin-bottom:20px}#yoo-zoo .item div.pos-sidebar{width:245px}#yoo-zoo .item div.sidebar-left{margin-right:15px;float:left}#yoo-zoo .item div.sidebar-right{margin-left:15px;float:right}#yoo-zoo .item div.pos-sidebar
+.element{margin-bottom:20px;padding:10px;border:1px
+solid #C8C8C8}#yoo-zoo .item div.pos-sidebar
+div.rating{overflow:hidden}#yoo-zoo .item div.pos-sidebar div.rating div.rating-container{margin-right:10px;float:left}#yoo-zoo .item div.pos-sidebar div.rating div.vote-message{line-height:20px}#yoo-zoo .item div.pos-sidebar .element-image{padding:0px;border:none}#yoo-zoo .item div.pos-sidebar .element-relateditems>div{margin-bottom:5px;padding-bottom:5px;border-bottom:1px solid #e6e6e6;overflow:hidden}#yoo-zoo .item div.pos-sidebar .element-relateditems>div:last-child{border:none;margin-bottom:0px;padding-bottom:0px}#yoo-zoo .item div.pos-sidebar .element-relateditems div.sub-pos-media{display:inline-block;margin:0px
+10px 0px 0px;vertical-align:middle}#yoo-zoo .item div.pos-sidebar .element-relateditems div.sub-pos-media > a,
+#yoo-zoo .item div.pos-sidebar .element-relateditems div.sub-pos-media>a>img{display:block}#yoo-zoo .item div.pos-sidebar .element-relateditems h4.sub-pos-title{display:inline-block;margin:0px;font-size:12px;font-weight:normal;line-height:12px;color:#323232}#yoo-zoo .item h1.pos-title{margin:0px
+0px 5px 0px;font-weight:normal;color:#323232;font-size:30px;line-height:30px}#yoo-zoo .item p.pos-meta{margin:0px
+0px 10px 0px;font-style:italic;color:#969696}#yoo-zoo .item div.pos-description{}#yoo-zoo .item div.pos-description
+.element{margin-top:20px}#yoo-zoo .item div.pos-description
+.element.first{margin-top:0px}#yoo-zoo .item ul.pos-specification{list-style:none;margin:20px
+0px 0px 0px;padding:10px
+0px 10px 0px;border-top:1px solid #c8c8c8;border-bottom:1px solid #c8c8c8;overflow:hidden}#yoo-zoo .item ul.pos-specification
+strong{display:inline-block;width:90px;color:#323232}#yoo-zoo .item
+p.spoiler{margin-top:15px;font-weight:bold;color:#323232;font-size:13px}#yoo-zoo .item p.spoiler
+span.warning{color:#c80000}#yoo-zoo .item div.pos-summary
+.element{margin-top:20px}#yoo-zoo .item div.pos-bottom
+.element{margin-top:20px;padding-top:20px;border-top:1px solid #c8c8c8;overflow:hidden}#yoo-zoo .item div.pos-bottom .yoo-gallery
+div.thumbnails{position:relative;left:50%;float:left}#yoo-zoo .item div.pos-bottom .yoo-gallery
+div.thumbnail{position:relative;left:-50%}#yoo-zoo .item div.pos-bottom .plain .yoo-gallery
+div.thumbnail{margin-right:10px}#yoo-zoo
+div#comments{padding-top:20px;border-top:1px solid #c8c8c8}#yoo-zoo .person
+h3{margin-top:0px;font-size:21px;font-weight:normal}#yoo-zoo .person .element-textarea>*{margin:0px
+0px 10px 0px}#yoo-zoo .person .element-textarea *:last-child{margin-bottom:0px}#yoo-zoo .person div.pos-sidebar{width:245px}#yoo-zoo .person div.sidebar-left{margin-right:15px;float:left}#yoo-zoo .person div.sidebar-right{margin-left:15px;float:right}#yoo-zoo .person div.pos-sidebar
+.element{margin-bottom:20px;padding:10px;border:1px
+solid #C8C8C8}#yoo-zoo .person div.pos-sidebar
+div.rating{overflow:hidden}#yoo-zoo .person div.pos-sidebar div.rating div.rating-container{margin-right:10px;float:left}#yoo-zoo .person div.pos-sidebar div.rating div.vote-message{line-height:20px}#yoo-zoo .person div.pos-sidebar .element-image{padding:0px;border:none}#yoo-zoo .person h1.pos-title{margin:0px
+0px 15px 0px;font-weight:normal;color:#323232;font-size:30px;line-height:30px}#yoo-zoo .person ul.pos-specification{list-style:none;margin:0px
+0px 20px 0px;padding:10px
+0px 10px 0px;border-top:1px solid #c8c8c8;border-bottom:1px solid #c8c8c8;overflow:hidden}#yoo-zoo .person ul.pos-specification
+strong{display:inline-block;width:90px;color:#323232}#yoo-zoo .person div.pos-description{}#yoo-zoo .person div.pos-description
+.element{margin-top:20px}#yoo-zoo .person div.pos-description
+.element.first{margin-top:0px}#yoo-zoo .person div.pos-movie{margin-top:20px;overflow:hidden}#yoo-zoo .person div.pos-movie .element-relateditems>ul{list-style:none;margin:0px;padding:0px}#yoo-zoo
+div#comments{padding-top:20px;border-top:1px solid #c8c8c8}#yoo-zoo .mysubmissions > h1.headline,
+#yoo-zoo .submission>h1.headline{margin:0px
+0px 5px 0px;font-weight:normal;color:#323232;font-size:30px;line-height:30px}#yoo-zoo div.submission
+fieldset{margin:0;padding:0
+0 20px 0;border:none}#yoo-zoo div.submission fieldset
+legend{width:100%;margin-bottom:20px;padding:10px
+0 5px 0;border-bottom:1px solid #e6e6e6;font-size:21px;font-weight:normal;color:#323232}#yoo-zoo div.submission .element>strong{width:140px}

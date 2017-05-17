@@ -1,0 +1,114 @@
+#yoo-zoo .row,
+#yoo-zoo
+.floatbox{overflow:hidden}#yoo-zoo
+.width20{float:left;width:19.999%}#yoo-zoo
+.width25{float:left;width:24.999%}#yoo-zoo
+.width33{float:left;width:33.333%}#yoo-zoo
+.width50{float:left;width:49.999%}#yoo-zoo .alpha-index{margin-bottom:20px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_h.png") 0 100% repeat-x}#yoo-zoo .alpha-index-1{background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_h.png") 0 0 repeat-x;overflow:hidden}#yoo-zoo .alpha-index a,
+#yoo-zoo .alpha-index
+span{display:inline-block;width:21px;height:26px;margin:2px
+0px 2px 0px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_v.png") 100% 0 repeat-y;line-height:26px;text-align:center;text-transform:uppercase}#yoo-zoo .alpha-index a:last-child,
+#yoo-zoo .alpha-index span:last-child{background:none}#yoo-zoo .alpha-index a:link,
+#yoo-zoo .alpha-index a:visited{color:#646464;text-decoration:none}#yoo-zoo .alpha-index a:hover{height:28px;margin:1px
+0px 1px 0px;line-height:28px;color:#fff;background:#399FB1}#yoo-zoo .alpha-index
+span{color:#C8C8C8;cursor:default}#yoo-zoo .alpha-index-center{text-align:center}#yoo-zoo
+.details{}#yoo-zoo .details
+h1.title{margin:0px
+0px 5px 0px;font-size:30px;line-height:40px;color:#323232;font-weight:normal}#yoo-zoo .details
+h2.subtitle{margin:-5px 0px 5px 0px;font-size:16px;line-height:20px;color:#323232;font-weight:normal}#yoo-zoo .details.alignment-center
+h1.title{font-size:38px;line-height:42px;letter-spacing:-1px}#yoo-zoo .details
+div.description{margin-bottom:20px;overflow:hidden}#yoo-zoo .details.alignment-center{text-align:center}#yoo-zoo .details.alignment-left
+.image{margin-right:15px;float:left}#yoo-zoo .details.alignment-right
+.image{margin-left:15px;float:right}#yoo-zoo .details.alignment-center
+.image{display:block;margin:auto;margin-bottom:10px}#yoo-zoo .frontpage-categories{overflow:hidden}#yoo-zoo .frontpage-categories
+.category{margin-bottom:20px}#yoo-zoo .frontpage-categories
+h2.title{height:23px;margin:0px;padding-bottom:2px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_h.png") 0 100% repeat-x;line-height:20px;font-size:20px;font-weight:normal;overflow:hidden}#yoo-zoo .frontpage-categories h2.title
+a{text-decoration:none}#yoo-zoo .frontpage-categories h2.title
+span{font-size:13px;font-weight:normal;color:#969696}#yoo-zoo .frontpage-categories
+div.description{margin-top:10px;overflow:hidden}#yoo-zoo .frontpage-categories a.teaser-image{display:block}#yoo-zoo .frontpage-categories a.teaser-image-left{margin-right:15px;float:left}#yoo-zoo .frontpage-categories a.teaser-image-right{margin-left:15px;float:right}#yoo-zoo .frontpage-categories div.sub-categories{margin-top:10px;overflow:hidden}#yoo-zoo .frontpage-categories div.sub-categories
+ul{list-style:none;margin:0px;padding:0px}#yoo-zoo .frontpage-categories div.sub-categories ul
+li{padding:0px
+10px 0px 10px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/arrow_grey.png") 0 6px no-repeat}#yoo-zoo .frontpage-categories div.sub-categories ul
+span{font-size:11px;color:#969696}#yoo-zoo
+.categories{overflow:hidden}#yoo-zoo .categories
+ul{list-style:none;margin:0px;padding:0px}#yoo-zoo .categories
+.category{padding:0px
+10px 0px 10px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/arrow_grey.png") 0 6px no-repeat}#yoo-zoo .categories
+h2.title{margin:0px;line-height:18px;font-size:12px;font-weight:normal}#yoo-zoo .categories h2.title
+span{font-size:11px;font-weight:normal;color:#969696}#yoo-zoo .categories
+div.description{line-height:14px;color:#969696}#yoo-zoo .categories a.teaser-image{display:block;margin:4px
+0px 4px 0px}#yoo-zoo .categories p.sub-categories{margin:0px}#yoo-zoo .categories p.sub-categories
+a{line-height:14px;font-size:12px;color:#323232}#yoo-zoo .categories p.sub-categories
+span{color:#969696;font-size:10px}#yoo-zoo
+.items{margin:0px
+-7px 0px -7px;padding-bottom:15px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_h.png") 0 100% repeat-x}#yoo-zoo .items-separator{margin-top:20px}#yoo-zoo .items h2.items-title{margin:0px
+7px 5px 7px;line-height:26px;font-size:20px;font-weight:normal;color:#323232}#yoo-zoo .items
+.row{margin-top:15px;padding-top:15px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_h.png") 0 0 repeat-x}#yoo-zoo .items .first-row{margin-top:0px}#yoo-zoo .items div.teaser-item{padding:0px
+7px 0px 7px;overflow:hidden}#yoo-zoo .items div.pos-media{border:6px
+solid #F0F1F2}#yoo-zoo .items div.pos-media>*{border:1px
+solid #D2D3D4;background:#fff}#yoo-zoo .items div.pos-media > a,
+#yoo-zoo .items div.pos-media>a>img{display:block}#yoo-zoo .items div.media-left{margin-right:15px;float:left}#yoo-zoo .items div.media-right{margin-left:15px;float:right}#yoo-zoo .items div.media-center{margin-bottom:15px;text-align:center}#yoo-zoo .items div.media-center>*{display:block}#yoo-zoo .items ul.pos-infobar{list-style:none;width:200px;min-height:100px;margin:5px
+0px 5px 15px;padding:0px
+0px 0px 20px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_v.png") 0 0 repeat-y;float:right}#yoo-zoo .items ul.pos-infobar
+li{line-height:20px}#yoo-zoo .items-col-2 ul.infobar-pos{width:140px}#yoo-zoo .items-col-3 ul.infobar-pos,
+#yoo-zoo .items-col-4 ul.infobar-pos{width:140px;padding-left:10px}#yoo-zoo .items ul.pos-infobar .element-rating{margin:0px
+0px 5px -3px}#yoo-zoo .items h2.pos-title{margin:0px;font-size:17px;font-weight:normal}#yoo-zoo .items h2.pos-title
+a{text-decoration:none}#yoo-zoo .items div.pos-description{}#yoo-zoo .items div.pos-description
+.element{margin-top:7px}#yoo-zoo .items div.pos-description .element-textarea>*{margin:0px
+0px 7px 0px}#yoo-zoo .items div.pos-description .element-textarea *:last-child{margin-bottom:0px}#yoo-zoo .items p.pos-links{margin:7px
+0px 0px 0px}#yoo-zoo .items p.pos-links span a:after{content:" »";font-size:14px}#yoo-zoo
+.pagination{padding-top:5px;border-top:1px solid #D2D3D4;text-align:center}#yoo-zoo .pagination div.pagination-bg{display:inline-block;cursor:pointer}#yoo-zoo .pagination
+a{text-decoration:none}#yoo-zoo .item
+h3{margin-top:0px;padding-bottom:7px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_h.png") 0 100% repeat-x;font-size:20px;font-weight:normal}#yoo-zoo .item .element-textarea>*{margin:0px
+0px 10px 0px}#yoo-zoo .item .element-textarea *:last-child{margin-bottom:0px}#yoo-zoo .item div.pos-top{overflow:hidden}#yoo-zoo .item div.pos-top
+.element{margin-bottom:20px}#yoo-zoo .item h1.pos-title{margin:0px
+0px 5px 0px;font-weight:normal;color:#323232;font-size:20px;line-height:25px;float:left}#yoo-zoo .item div.pos-header{overflow:hidden;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_h.png") 0 100% repeat-x}#yoo-zoo .item div.pos-header
+.element{margin-top:3px;float:right}#yoo-zoo .item div.pos-header
+div.rating{overflow:hidden}#yoo-zoo .item div.pos-header div.rating div.rating-container{margin-left:10px;float:right}#yoo-zoo .item div.pos-header div.rating div.vote-message{float:right;line-height:23px}#yoo-zoo div.rating div.rating-container,
+#yoo-zoo div.rating div.previous-rating,
+#yoo-zoo div.rating div.current-rating
+div.hover{background-image:url("../../media/zoo/applications/cookbook/templates/default/assets/images/stars.png")}#yoo-zoo div.rating
+div.star1{width:22px}#yoo-zoo div.rating
+div.star2{width:44px}#yoo-zoo div.rating
+div.star3{width:66px}#yoo-zoo div.rating
+div.star4{width:88px}#yoo-zoo div.rating
+div.star5{width:110px}#yoo-zoo div.rating
+div.star6{width:132px}#yoo-zoo div.rating
+div.star7{width:154px}#yoo-zoo div.rating
+div.star8{width:176px}#yoo-zoo div.rating
+div.star9{width:198px}#yoo-zoo div.rating
+div.star10{width:220px}#yoo-zoo .item ul.pos-infobar{list-style:none;margin:0px
+0px 30px 0px;padding:2px
+0px 2px 0px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_h.png") 0 100% repeat-x;overflow:hidden}#yoo-zoo .item ul.pos-infobar
+li{padding:0px
+15px 0px 15px;height:26px;line-height:26px;float:left;color:#399FB1;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_v.png") 100% 0 repeat-y}#yoo-zoo .item ul.pos-infobar
+li.element.first{padding-left:0px}#yoo-zoo .item ul.pos-infobar
+strong{color:#646464}#yoo-zoo .item
+div.ingredients{margin-bottom:30px;overflow:hidden}#yoo-zoo .item div.pos-media{border:6px
+solid #F0F1F2}#yoo-zoo .item div.pos-media>*{border:1px
+solid #D2D3D4;background:#fff}#yoo-zoo .item div.media-left{margin-right:15px;float:left}#yoo-zoo .item div.media-right{margin-left:15px;float:right}#yoo-zoo .item div.pos-media
+.element{margin-bottom:15px}#yoo-zoo .item div.pos-media
+.element.last{margin-bottom:0px}#yoo-zoo .item div.pos-media .element-image>*{display:block}#yoo-zoo .item div.pos-ingredients{line-height:24px;overflow:hidden}#yoo-zoo .item div.pos-ingredients
+ul{list-style:none;padding:0px
+0px 0px 0px}#yoo-zoo .item div.pos-ingredients
+li{padding-left:30px;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/arrow_blue.png") 15px 50% no-repeat}#yoo-zoo .item
+div.directions{overflow:hidden}#yoo-zoo .item div.pos-sidebar{width:300px}#yoo-zoo .item div.sidebar-left{margin-right:60px;float:left}#yoo-zoo .item div.sidebar-right{margin-left:60px;float:right}#yoo-zoo .item div.pos-sidebar
+.element{margin-bottom:20px}#yoo-zoo .item div.pos-sidebar
+.element.last{margin-bottom:0px}#yoo-zoo .item div.pos-sidebar .element
+h3{color:#323232}#yoo-zoo .item div.pos-sidebar .element
+ul{list-style:none;padding:0px}#yoo-zoo .item div.pos-sidebar .element
+li{background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/arrow_grey.png") 0px 50% no-repeat;padding-left:10px}#yoo-zoo .item div.pos-sidebar .element-relateditems>div{margin-bottom:10px;overflow:hidden}#yoo-zoo .item div.pos-sidebar .element-relateditems>div:last-child{border:none;margin-bottom:0px;padding-bottom:0px}#yoo-zoo .item div.pos-sidebar .element-relateditems div.sub-pos-media{display:inline-block;margin:0px
+10px 0px 0px;border:1px
+solid #dcdcdc;vertical-align:middle}#yoo-zoo .item div.pos-sidebar .element-relateditems div.sub-pos-media>*{padding:1px}#yoo-zoo .item div.pos-sidebar .element-relateditems div.sub-pos-media > a,
+#yoo-zoo .item div.pos-sidebar .element-relateditems div.sub-pos-media>a>img{display:block}#yoo-zoo .item div.pos-sidebar .element-relateditems h4.sub-pos-title{display:inline-block;margin:0px;font-size:12px;font-weight:normal;line-height:12px;color:#323232}#yoo-zoo .item div.pos-directions{overflow:hidden}#yoo-zoo .item div.pos-directions
+ol{margin:15px
+0px 15px 10px;padding-left:20px;color:#399FB1;font-family:Georgia,"Times New Roman",Times,serif;font-size:24px;font-style:italic}#yoo-zoo .item div.pos-directions ol
+li{margin-bottom:15px}#yoo-zoo .item div.pos-directions ol li:last-child{margin-bottom:0px}#yoo-zoo .item div.pos-directions ol
+div{font-family:Arial,Helvetica,sans-serif;color:#646464;font-size:12px;font-style:normal}#yoo-zoo .item div.pos-bottom{overflow:hidden}#yoo-zoo .item div.pos-bottom
+.element{margin-top:20px}#yoo-zoo .mysubmissions > h1.headline,
+#yoo-zoo .submission>h1.headline{margin:0px
+0px 5px 0px;font-weight:normal;color:#323232;font-size:30px;line-height:30px}#yoo-zoo div.submission
+fieldset{margin:0;padding:0
+0 20px 0;border:none}#yoo-zoo div.submission fieldset
+legend{width:100%;margin-bottom:20px;padding:10px
+0 5px 0;background:url("../../media/zoo/applications/cookbook/templates/default/assets/images/line_dotted_h.png") 0 100% repeat-x;color:#323232;font-size:20px;line-height:25px}

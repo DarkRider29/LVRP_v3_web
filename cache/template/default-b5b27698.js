@@ -1,0 +1,1 @@
+jQuery(function(a){a("select.auto-submit").bind("change",function(){a('form[name="adminForm"]').submit()})});
